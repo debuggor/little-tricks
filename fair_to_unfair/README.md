@@ -3,3 +3,4 @@
 这个系统是一个随机的过程，很公平。
 
 但最后房间里面的财富分布， 差异明显！
+![image](https://github.com/Lovephysics/little-tricks/blob/master/fair_to_unfair/unfair2.png)
