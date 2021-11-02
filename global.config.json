@@ -988,11 +988,11 @@
       "file_hash": "XplPz01CXAps5qeSWUtxcyBfdAo5zVb1N979KLSKD24="
     },
     "init_block": {
-      "root_hash": "irEt9whDfgaYwD+8AzBlYzrMZHhrkhSVp3PU1s4DOz4=",
-      "seqno": 10171687,
-      "file_hash": "lay/bUKUUFDJXU9S6gx9GACQFl+uK+zX8SqHWS9oLZc=",
-      "workchain": -1,
-      "shard": -9223372036854775808
+       "workchain": -1,
+    "shard": "-9223372036854775808",
+    "seqno": 15787556,
+    "root_hash": "YBl9t1wB/wbIgtsT173bzLzk0IY5Kf0iLW/heVFXfm0=",
+    "file_hash": "I2Nk4Uuxb1ETAcjs6E8WjVQMLMxuLqFah02mtWRWU0k="
     },
     "hardforks": [
       {
